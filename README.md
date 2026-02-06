@@ -49,14 +49,15 @@ It helps me structure projects step by step, perform design and code reviews, an
 ---
 
 ### 2. Automation Scripts
-**Repository:** `dev-journey-automation-scripts`  
+**Repository:** `dev-journey-automation-file-sorter`  
 **Type:** Scripting & Automation  
 
 **Skills & Concepts:**
-- Task automation
-- File system manipulation
-- External APIs
-- Writing practical, reusable scripts
+- Command-line tooling with argparse
+- File system analysis and manipulation
+- Safe automation workflows (analysis → execution)
+- Dry-run strategies and conflict handling
+- Designing reusable, idempotent automation scripts
 
 ---
 

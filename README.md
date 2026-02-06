@@ -26,6 +26,13 @@ Instead of going deep into a single technology, this journey focuses on:
 
 ---
 
+## Learning approach & tooling
+
+Throughout this journey, I use ChatGPT as a **guided learning assistant**, prompted as a development trainer rather than a code generator.
+It helps me structure projects step by step, perform design and code reviews, and draft documentation (README, CHANGELOG, releases), while all implementation decisions and coding are done manually by me.
+
+---
+
 ## Projects Overview
 
 ### 1. CLI Application – Todo Manager

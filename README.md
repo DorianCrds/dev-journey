@@ -46,6 +46,8 @@ It helps me structure projects step by step, perform design and code reviews, an
 - Error handling
 - Clean code basics
 
+[View GitHub repository](https://github.com/DorianCrds/dev-journey-cli-todo)
+
 ---
 
 ### 2. Automation Scripts
@@ -59,6 +61,8 @@ It helps me structure projects step by step, perform design and code reviews, an
 - Dry-run strategies and conflict handling
 - Designing reusable, idempotent automation scripts
 
+[View GitHub repository](https://github.com/DorianCrds/dev-journey-automation-file-sorter)
+
 ---
 
 ### 3. Static Website
@@ -70,6 +74,8 @@ It helps me structure projects step by step, perform design and code reviews, an
 - Responsive design
 - Basic user interactions
 - Browser rendering fundamentals
+
+[View GitHub repository](https://github.com/DorianCrds/dev-journey-static-website)
 
 ---
 

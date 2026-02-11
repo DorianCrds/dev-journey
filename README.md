@@ -62,7 +62,7 @@ It helps me structure projects step by step, perform design and code reviews, an
 ---
 
 ### 3. Static Website
-**Repository:** `dev-journey-web-static`  
+**Repository:** `dev-journey-static-website`  
 **Type:** Frontend (Static Web)  
 
 **Skills & Concepts:**

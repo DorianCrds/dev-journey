@@ -3,6 +3,8 @@
 This project is part of my **Dev Journey**, a structured, project-based exploration
 of the main types of software development.
 
+[View Dev Journey GitHub 'Hub' repository](https://github.com/DorianCrds/dev-journey-static-website)
+
 ---
 
 ## Project goals
